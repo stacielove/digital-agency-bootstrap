@@ -11103,3 +11103,10 @@ footer {
   height: 80px;
   text-align: center;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/stacieclere\/Documents\/Stackskills\/digital-agency-bootstrap\/less\/main\.less}line{font-family:\00003230}}
+.page-scroll {
+  -webkit-transition-property: -webkit-transform;
+  -webkit-transition-duration: 1s;
+  -moz-transition-property: -webkit-transform;
+  -moz-transition-duration: 1s;
+}
