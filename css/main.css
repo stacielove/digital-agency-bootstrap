@@ -11034,7 +11034,7 @@ a:focus {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/stacieclere\/Documents\/Stackskills\/digital-agency-bootstrap\/less\/main\.less}line{font-family:\00003150}}
 .content-section {
-  padding: 80px 0 40px 0;
+  padding: 70px 0 40px 0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/stacieclere\/Documents\/Stackskills\/digital-agency-bootstrap\/less\/main\.less}line{font-family:\00003156}}
 .block-icon-left {
@@ -11084,18 +11084,19 @@ a:focus {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/stacieclere\/Documents\/Stackskills\/digital-agency-bootstrap\/less\/main\.less}line{font-family:\00003202}}
 #clients {
   text-align: center;
+  padding-bottom: 80px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/stacieclere\/Documents\/Stackskills\/digital-agency-bootstrap\/less\/main\.less}line{font-family:\00003205}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/stacieclere\/Documents\/Stackskills\/digital-agency-bootstrap\/less\/main\.less}line{font-family:\00003206}}
 #clients img {
   margin-right: 30px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/stacieclere\/Documents\/Stackskills\/digital-agency-bootstrap\/less\/main\.less}line{font-family:\00003212}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/stacieclere\/Documents\/Stackskills\/digital-agency-bootstrap\/less\/main\.less}line{font-family:\00003213}}
 #contact {
   background: #333333;
   color: #f4f4f4;
   padding-bottom: 80px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/stacieclere\/Documents\/Stackskills\/digital-agency-bootstrap\/less\/main\.less}line{font-family:\00003220}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/stacieclere\/Documents\/Stackskills\/digital-agency-bootstrap\/less\/main\.less}line{font-family:\00003221}}
 footer {
   margin-top: 10px;
   padding-top: 30px;
